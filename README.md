@@ -1,3 +1,8 @@
+<p align="center">
+  <img style="border-width: 0" src="favicon_io/android-chrome-192x192.png" alt="drummer logo">
+</p>
+
+
 # tindog
 A dating website design made for dogs.
 
@@ -8,7 +13,7 @@ Create this website to built a UI for a dating website.
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d7b31034-6fa6-408f-a566-14c31fca868e/deploy-status)](https://app.netlify.com/sites/tindogsite/deploys)
 
 # Screenshot
-
+<img src="favicon_io/screenshot.png">
 
 
 # Tech/Framework Used
